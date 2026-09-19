@@ -12,15 +12,16 @@ Product Manager | hardware & software development
 
 
 ### Open-source personal projects
-- [Spruce Theme Builder](https://github.com/nco-design/spruce-theme-builder) : A Node.JS theme builder for retro consoles ;
-- [Theme Builder Web UI](https://nco-design.github.io/theme-builder-web-UI/) : Online version of Spruce Theme Builder that does not require any back-end ;
+- [Spruce Theme Builder](https://github.com/nco-design/spruce-theme-builder) : A Node.JS theme builder for retro consoles
+- [Theme Builder Web UI](https://nco-design.github.io/theme-builder-web-UI/) : Online version of Spruce Theme Builder that does not require any back-end
 
 ## 🛠️ Skills
 
 - Project management ; UX/UI ; Hardware & product design
-- MQTT ; Zigbee 3.0 ; Restful API ; Websocket
-- Node.JS ; Javascript ; Linux
+- MQTT ; Zigbee 3.0 ; Rest API ; Websocket
+- Node.js ; Javascript ; Linux
+- ESP32-C3 ; ESP32-H2
 
 ## 🌱 I’m currently learning
-- Kotlin and Intellij IDEA
+- Kotlin with Intellij IDEA
 - Penpot
